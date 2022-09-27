@@ -12,7 +12,8 @@ import org.junit.runner.RunWith;
         features="src/test/resources/features",
         glue = "stepdefinitions",
         tags="@WebU",
-        dryRun = false
+        dryRun = false )
 
-public class ParallelTestRunner1 {
+        public class ParallelTestRunner1 {
+
 }
