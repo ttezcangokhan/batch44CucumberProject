@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="4.712">
+    <testcase classname="US1011 WebUniversity Window Handle" name="TC16 Reusable Methods ile window Handle Testi" time="4.551">
+        <failure message="The scenario has pending or undefined step(s)" type="io.cucumber.java.PendingException"><![CDATA[Given kullanici "WebUniversityUrl" sayfasina gider..........................passed
+And Login Portal'a  kadar asagi iner........................................passed
+And 2 saniye bekler.........................................................pending
+And Login Portal'a  tiklar..................................................skipped
+Then acilan Diger window'a gecer............................................skipped
+And "Mustafa" ve  "Donat" kutularina deger yazdirin.........................skipped
+And WebUniversity Login butonuna basar......................................skipped
+And 2 saniye bekler.........................................................skipped
+And Popup'ta cikan yazinin "validation failed" oldugunu test eder...........skipped
+Then Ok diyerek Popup'i kapatir.............................................skipped
+And Ilk sayfaya geri doner..................................................skipped
+And Ilk sayfaya donuldugunu test eder.......................................skipped
+And sayfayi kapatir.........................................................skipped
+]]></failure>
+    </testcase>
+</testsuite>
